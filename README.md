@@ -6,3 +6,7 @@ This file both logs a cook date AND can also return all cook dates.
 
 The method cooklog allows to add a cooked on date with the format: "recipe_name recipe_date" from the CLI user input
 The method getcooklog pulls the log of a recipe object using a recipe_name and returns a string of comma separated dates of when a cook date was logged in the CLI
+
+
+example call: getcooklog Cowboy_Pizza
+example call: cooklog Cowboy_Pizza
