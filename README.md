@@ -1,4 +1,4 @@
-Hello.  This is the first attempt.
+Hello.  This is the first attempt.  Those files did not work but are here for posterity.
 
 The first attempt at the microservice was a lot of trial and error.  
 The final push uses my partners driver.py and a trial database to test that the microservice works.
