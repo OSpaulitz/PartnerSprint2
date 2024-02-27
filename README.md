@@ -1,4 +1,4 @@
-Hello.  This is a stumbling path through figuring out a microservice.  Those files that did not work but are here for posterity.
+Hello.  This is a stumbling path through figuring out a microservice.  The files that did not work remain here for posterity.
 
 The first attempt at the microservice was a lot of trial and error.  
 The final push uses my partners driver.py and a trial database to test that the microservice works.  The working microservice file is cooklog_microservice.py
