@@ -10,4 +10,5 @@ The method getcooklog pulls the log of a recipe object using a recipe_name and r
 
 example call_1: getcooklog Cowboy_Pizza
 example call_2: cooklog Cowboy_Pizza
-<img width="1166" alt="UML" src="https://github.com/OSpaulitz/PartnerSprint2/assets/114098824/60fa4f93-39ca-456b-a021-355cb9185dd4">
+
+<img width="829" alt="UML" src="https://github.com/OSpaulitz/PartnerSprint2/assets/114098824/aea944ea-3ec9-4306-87dc-468740645205">
