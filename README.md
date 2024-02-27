@@ -9,8 +9,11 @@ The method getcooklog pulls the log of a recipe object using a recipe_name and r
 
 
 example call_1: getcooklog Cowboy_Pizza
+
 example call_2: cooklog Cowboy_Pizza
+
 example call_1 response: "Error.  Recipe Not Found" or "cooklog {recipe_name) {dates cooked}
+
 example call_2 response: "Error" or "Success"
 
 <img width="829" alt="UML" src="https://github.com/OSpaulitz/PartnerSprint2/assets/114098824/aea944ea-3ec9-4306-87dc-468740645205">
