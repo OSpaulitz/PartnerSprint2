@@ -27,14 +27,5 @@ Jacqueline's Asana workspace and Jacqueline will work in Aidan's Jira workspace
 4. Working style and deadlines: quick synchronous Thursday meeting to discuss upcoming
 work.
 5. Discuss potential conflicts in advance.
-a. Jacqueline:
-i. I will be unavailable 2/3 and 2/17 as my kids have all day tournaments.
-ii. Most Fridays, I try to use that time to recenter with my family. I am happy
-to meet and communicate from 9AM through 4PM. I do not work that day
-and am free.
-b. Aidan:
-i. 2/12 is my anniversary so I will try to finish my deliverables early but be
-available if needed but hoping to avoid
-ii. 2/18 I will have low availability
-iii. 2/24-26 and 3/1-3 I may be traveling so I will try to finish my deliverables
-early; available if needed
+Please find new contract below:
+[Homework10Paulitzj.docx](https://github.com/OSpaulitz/PartnerSprint2/files/14466207/Homework10Paulitzj.docx)
